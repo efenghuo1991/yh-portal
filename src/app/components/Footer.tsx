@@ -39,7 +39,7 @@ export default function Footer() {
           <p>© {new Date().getFullYear()} 北京萤火智创科技有限公司 版权所有</p>
           <p className="mt-2">
             <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400">
-              {/* 京ICP备XXXXXXXX号-1 */}
+              京ICP备2025128000号-1
             </a>
           </p>
         </div>
