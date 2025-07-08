@@ -11,7 +11,7 @@ export default function Footer() {
             <h3 className="text-lg font-semibold text-white mb-4">产品服务</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="hover:text-blue-400 transition-colors">沃客卡包会员管理小程序</a>
+                <a href="#" className="hover:text-blue-400 transition-colors">萤火卡包会员管理小程序</a>
               </li>
               <li>
                 <a href="#" className="hover:text-blue-400 transition-colors">沃物精选小程序</a>

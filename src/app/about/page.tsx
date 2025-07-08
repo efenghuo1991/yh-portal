@@ -30,7 +30,7 @@ export default function About() {
               <h2 className="text-2xl font-bold text-gray-900 mb-4">核心产品</h2>
               <div className="space-y-4 mb-8">
                 <div className="bg-white p-6 rounded-lg shadow-sm">
-                  <h3 className="text-xl font-semibold text-gray-900 mb-2">沃客卡包会员管理小程序</h3>
+                  <h3 className="text-xl font-semibold text-gray-900 mb-2">萤火卡包会员管理小程序</h3>
                   <p className="text-gray-600">
                     为商家提供会员管理、营销推广、数据分析等一体化解决方案，助力商家提升运营效率和客户满意度。
                   </p>

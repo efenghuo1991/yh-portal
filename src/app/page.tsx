@@ -23,7 +23,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-16 items-center">
             <div className="order-2 md:order-1">
               <h2 className="text-3xl font-bold text-gray-900 mb-6">
-                沃客卡包会员管理小程序
+                萤火卡包会员管理小程序
               </h2>
               <div className="space-y-4 text-lg text-gray-600">
                 <p>专业的会员管理工具，助力商家数字化转型</p>
@@ -65,7 +65,7 @@ export default function Home() {
                 <div className="bg-gradient-to-r from-blue-100 to-green-100 absolute inset-0 rounded-3xl transform rotate-3"></div>
                 <Image
                   src="/images/products/show.png"
-                  alt="沃客卡包会员管理小程序"
+                  alt="萤火卡包会员管理小程序"
                   fill
                   style={{ objectFit: 'contain' }}
                   className="relative rounded-2xl shadow-lg"

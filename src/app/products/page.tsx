@@ -18,12 +18,12 @@ export default function Products() {
       {/* 产品展示 */}
       <section className="py-16">
         <div className="container mx-auto px-4">
-          {/* 沃客卡包 */}
+          {/* 萤火卡包 */}
           <div className="max-w-6xl mx-auto mb-24">
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div>
                 <span className="inline-block text-blue-600 font-semibold mb-4">会员管理系统</span>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6">沃客卡包会员管理小程序</h2>
+                <h2 className="text-3xl font-bold text-gray-900 mb-6">萤火卡包会员管理小程序</h2>
                 <div className="space-y-4">
                   <p className="text-gray-600 leading-relaxed">
                     专为商家打造的一站式会员管理解决方案，助力商家实现数字化转型，提升运营效率。
@@ -60,7 +60,7 @@ export default function Products() {
                 <div className="bg-gradient-to-r from-blue-100 to-green-100 absolute inset-0 rounded-3xl transform rotate-3"></div>
                 <Image
                   src="/images/products/show.png"
-                  alt="沃客卡包会员管理小程序"
+                  alt="萤火卡包会员管理小程序"
                   width={500}
                   height={800}
                   className="relative rounded-2xl shadow-lg"
